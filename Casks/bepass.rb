@@ -5,7 +5,7 @@ cask 'bepass' do
     
     version "1.6.2"
     arch arm: "arm64",
-        intel: "x86_64"
+        intel: "amd64"
     sha256 arm: "73a68abb51c262801f78a3efd999a1e249f227138fa863d8bbd470daac0f9c68",
         intel: "47c5558efbb22852a53daec6e823b5b1ce5ea411fe5c2dff5fa4f1c3c781b814"
         

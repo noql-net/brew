@@ -5,7 +5,7 @@ cask 'warp-plus' do
 
     version "1.2.2"
     arch arm: "arm64",
-        intel: "x86_64"
+        intel: "amd64"
     sha256 arm: "63817fe6e43d88eb590dc3df9b002b126de3f47804aa46b21ccf691458fc5683",
         intel: "2a23ed002e661e679b430841b1301db7b72c454ac0c5ac25274353c18de16623"
         
