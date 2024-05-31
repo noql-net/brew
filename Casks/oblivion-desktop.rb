@@ -3,7 +3,7 @@ cask 'oblivion-desktop' do
     desc "Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux."
     homepage "https://github.com/bepass-org/oblivion-desktop"
     
-    version "0.10.8"
+    version "0.10.8-beta"
     arch arm: "arm64",
         intel: "x64"
     sha256 arm: "9ac66502a23b211ec71693bbad510f56d2cb142a3397e57930b7d488ceec1234",
