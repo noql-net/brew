@@ -1,4 +1,4 @@
-cask 'oblivion' do
+cask 'oblivion-desktop' do
     name "oblivion"
     desc "Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux."
     homepage "https://github.com/bepass-org/oblivion-desktop"
